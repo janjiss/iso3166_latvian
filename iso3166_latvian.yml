@@ -1,0 +1,250 @@
+---
+- AFG: Afganistāna
+- ALB: Albānija
+- DZA: Alžīrija
+- ASM: Amerikāņu Samoa
+- USA: Amerikas Savienotās Valstis
+- AND: Andora
+- AIA: Angilja
+- AGO: Angola
+- ATA: Antarktika
+- ATG: Antigva un Barbuda
+- ARE: Apvienotie Arābu Emirāti
+- ARG: Argentīna
+- ARM: Armēnija
+- ABW: Aruba
+- UMI: ASV Mazās Aizjūras Salas
+- VIR: ASV Virdžīnas
+- AUS: Austrālija
+- AUT: Austrija
+- TLS: Austrumtimora
+- AZE: Azerbaidžāna
+- BHS: Bahamas
+- BHR: Bahreina
+- BGD: Bangladeša
+- BRB: Barbadosa
+- BLR: Baltkrievija
+- BLZ: Beliza
+- BEL: Beļģija
+- BEN: Benina
+- BMU: Bermuda
+- BOL: Bolīvija
+- BES: Bonaire, Sintēstatiusa un Saba
+- BIH: Bosnija un Hercegovina
+- BWA: Botsvana
+- BRA: Brazīlija
+- VGB: Britu Virdžīnas
+- BRN: Bruneja
+- BGR: Bulgārija
+- BFA: Burkinafaso
+- BDI: Burundi
+- BTN: Butāna
+- BVT: Buvē Sala
+- CAF: Centrālāfrikas Republika
+- TCD: Čada
+- CZE: Čehija
+- CHL: Čīle
+- DNK: Dānija
+- ZAF: Dienvidāfrika
+- SGS: Dienviddžordžija un Dienvidsendviču Salas
+- SSD: Dienvidsudāna
+- DMA: Dominika
+- DOM: Dominikāna
+- JEY: Džērsija
+- DJI: Džibutija
+- EGY: Ēģipte
+- ECU: Ekvadora
+- GNQ: Ekvatoriālā Gvineja
+- ERI: Eritreja
+- ETH: Etiopija
+- FRO: Fēru Salas
+- FJI: Fidži
+- PHL: Filipīnas
+- FLK: Folklenda Salas
+- FRA: Francija
+- ATF: Francijas Dienvidjūru un Antarktikas Zemes
+- PYF: Franču Polinēzija
+- GAB: Gabona
+- GUY: Gajāna
+- GMB: Gambija
+- GHA: Gana
+- GGY: Gērnsija
+- GIB: Gibraltārs
+- GRD: Grenāda
+- GRL: Grenlande
+- GRC: Grieķija
+- GEO: Gruzija
+- GUM: Guama
+- GLP: Gvadelupa
+- GTM: Gvatemala
+- GUF: Gviāna
+- GIN: Gvineja
+- GNB: Gvineja-Bisava
+- HTI: Haiti
+- HMD: Hērda Sala un Makdonalda Salas
+- HND: Hondurasa
+- HKG: Honkonga
+- HRV: Horvātija
+- EST: Igaunija
+- IND: Indija
+- IOT: Indijas Okeāna Britu Teritorija
+- IDN: Indonēzija
+- IRQ: Irāka
+- IRN: Irāna
+- IRL: Īrija
+- ISL: Īslande
+- ITA: Itālija
+- ISR: Izraēla
+- JAM: Jamaika
+- JPN: Japāna
+- NCL: Jaunkaledonija
+- NZL: Jaunzēlande
+- YEM: Jemena
+- JOR: Jordānija
+- CPV: Kaboverde
+- CYM: Kaimanu Salas
+- KHM: Kambodža
+- CMR: Kamerūna
+- CAN: Kanāda
+- QAT: Katara
+- KAZ: Kazahstāna
+- KEN: Kenija
+- CYP: Kipra
+- CUW: Kirasao
+- KGZ: Kirgizstāna
+- KIR: Kiribati
+- CCK: Kokosu (Kīlinga) Salas
+- COL: Kolumbija
+- COM: Komoras
+- COG: Kongo
+- COD: Kongo Demokrātiskā Republika
+- KOR: Korejas Republika
+- PRK: Korejas TDR
+- CRI: Kostarika
+- CIV: Kotdivuāra
+- RUS: Krievija
+- CUB: Kuba
+- COK: Kuka Salas
+- KWT: Kuveita
+- CHN: Ķīna
+- LAO: Laosa
+- LVA: Latvija
+- LSO: Lesoto
+- LBN: Libāna
+- LBR: Libērija
+- LBY: Lībija
+- GBR: Lielbritānija
+- LTU: Lietuva
+- LIE: Lihtenšteina
+- LUX: Luksemburga
+- MDG: Madagaskara
+- MYT: Majota
+- MAC: Makao
+- MKD: Maķedonija
+- MYS: Malaizija
+- MWI: Malāvija
+- MDV: Maldīvija
+- MLI: Mali
+- MLT: Malta
+- MAR: Maroka
+- MHL: Māršala Salas
+- MTQ: Martinika
+- MUS: Maurīcija
+- MRT: Mauritānija
+- MEX: Meksika
+- MNE: Melnkalne
+- IMN: Mena
+- FSM: Mikronēzija
+- MMR: Mjanma
+- MDA: Moldova
+- MCO: Monako
+- MNG: Mongolija
+- MSR: Montserrata
+- MOZ: Mozambika
+- NAM: Namībija
+- NRU: Nauru
+- NPL: Nepāla
+- NLD: Nīderlande
+- NER: Nigēra
+- NGA: Nigērija
+- NIC: Nikaragva
+- NIU: Niue
+- NFK: Norfolkas Sala
+- NOR: Norvēģija
+- ALA: Olande
+- OMN: Omāna
+- PAK: Pakistāna
+- PLW: Palau
+- PSE: Palestīna
+- PAN: Panama
+- PNG: Papua-Jaungvineja
+- PRY: Paragvaja
+- PER: Peru
+- PCN: Pitkērna
+- POL: Polija
+- PRT: Portugāle
+- PRI: Puertoriko
+- REU: Reinjona
+- ESH: Rietumsahāra
+- RWA: Ruanda
+- ROU: Rumānija
+- SLV: Salvadora
+- WSM: Samoa
+- SMR: Sanmarīno
+- STP: Santome un Prinsipi
+- SAU: Saūda Arābija
+- SYC: Seišelas
+- BLM: Senbartelmī
+- SEN: Senegāla
+- MAF: Senmartēna
+- SPM: Senpjēra un Mikelona
+- KNA: Sentkitsa un Nevisa
+- LCA: Sentlūsija
+- VCT: Sentvinsenta un Grenadīnas
+- SRB: Serbija
+- SGP: Singapūra
+- SYR: Sīrija
+- SXM: Sintmārtena
+- SLE: Sjerraleone
+- SVK: Slovākija
+- SVN: Slovēnija
+- SOM: Somālija
+- FIN: Somija
+- ESP: Spānija
+- SDN: Sudāna
+- SUR: Surinama
+- SJM: Svalbāra
+- SWZ: Svazilenda
+- SHN: Svētās Helēnas Sala
+- LKA: Šrilanka
+- CHE: Šveice
+- TJK: Tadžikistāna
+- TWN: Taivāna
+- THA: Taizeme
+- TZA: Tanzānija
+- TCA: Tērksas un Kaikosas
+- TGO: Togo
+- TKL: Tokelau
+- TON: Tonga
+- TTO: Trinidāda un Tobāgo
+- TUN: Tunisija
+- TUR: Turcija
+- TKM: Turkmenistāna
+- TUV: Tuvalu
+- UGA: Uganda
+- UKR: Ukraina
+- HUN: Ungārija
+- URY: Urugvaja
+- UZB: Uzbekistāna
+- DEU: Vācija
+- VUT: Vanuatu
+- VAT: Vatikāns
+- VEN: Venecuēla
+- VNM: Vjetnama
+- WLF: Volisa un Futuna
+- SLB: Zālamana Salas
+- ZMB: Zambija
+- MNP: Ziemeļu Marianas Salas
+- CXR: Ziemsvētku Sala
+- ZWE: Zimbabve
+- SWE: Zviedrija
